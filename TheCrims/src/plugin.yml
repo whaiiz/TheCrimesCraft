@@ -1,0 +1,7 @@
+name: TheCrimsCraftPlugin
+version: 0.0.1
+main: pt.ganda.Main
+
+commands:
+    help:
+      usage: /<command>
