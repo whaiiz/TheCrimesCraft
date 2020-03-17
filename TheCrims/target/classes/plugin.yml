@@ -1,0 +1,9 @@
+main: pt.ganda.thecrimscraft.Main
+name: TheCrimsCraft
+version: 1.0
+author: whaiiz
+description: hello
+
+commands:
+  help:
+    usage: /<command>

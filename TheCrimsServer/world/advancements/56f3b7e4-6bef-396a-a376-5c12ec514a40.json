@@ -1,10 +1,8 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2020-03-12 00:38:51 +0000",
-      "minecraft:forest": "2020-03-12 00:38:21 +0000",
-      "minecraft:deep_frozen_ocean": "2020-03-12 00:38:54 +0000",
-      "minecraft:beach": "2020-03-12 00:38:50 +0000"
+      "minecraft:forest": "2020-03-17 01:56:50 +0000",
+      "minecraft:wooded_hills": "2020-03-17 01:27:15 +0000"
     },
     "done": false
   },
