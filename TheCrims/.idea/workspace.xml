@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="032902c4-a9d2-4cec-abb9-038b2611349b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../815043.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheCrims.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TheCrims.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/craftbukkit-1.15.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/eula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/eula.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/logs/2020-03-12-1.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/ganda/thecrimscraft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/ganda/thecrimscraft/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/ganda/thecrimscraft/commands/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/ganda/thecrimscraft/commands/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheCrimsCraft-0.0.1-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TheCrimsCraft-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/ganda/thecrimscraft/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/ganda/thecrimscraft/commands/Help.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/plugins/TheCrimsCraft-0.0.1-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/plugins/TheCrimsCraft-0.0.1-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/server.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/usercache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/advancements/56f3b7e4-6bef-396a-a376-5c12ec514a40.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/advancements/56f3b7e4-6bef-396a-a376-5c12ec514a40.json" afterDir="false" />
@@ -21,18 +27,17 @@
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/level.dat_old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/playerdata/56f3b7e4-6bef-396a-a376-5c12ec514a40.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/playerdata/56f3b7e4-6bef-396a-a376-5c12ec514a40.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/poi/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/poi/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/poi/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/poi/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/poi/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/poi/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/poi/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/poi/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.-1.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.-1.-2.mca" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.-2.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.-2.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.-2.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.-2.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.0.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.0.-2.mca" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.1.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.1.-2.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/region/r.1.0.mca" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/session.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/stats/56f3b7e4-6bef-396a-a376-5c12ec514a40.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/stats/56f3b7e4-6bef-396a-a376-5c12ec514a40.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world/uid.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world/uid.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_nether/DIM-1/data/raids_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_nether/DIM-1/data/raids_nether.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_nether/DIM-1/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_nether/DIM-1/region/r.-1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_nether/DIM-1/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_nether/DIM-1/region/r.-1.0.mca" afterDir="false" />
@@ -41,7 +46,6 @@
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_nether/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_nether/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_nether/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_nether/level.dat_old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_nether/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_nether/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_nether/uid.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_nether/uid.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/DIM1/data/raids_end.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/DIM1/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/DIM1/region/r.-1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/DIM1/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/DIM1/region/r.-1.0.mca" afterDir="false" />
@@ -50,7 +54,6 @@
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/level.dat_old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/uid.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCrimsServer/world_the_end/uid.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +63,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -83,6 +87,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -93,6 +100,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jaime\Documentos\TheCrimsCraft\TheCrims\src\main\resources" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TheftTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.ganda.thecrimscraft.utils.TheftTimer" />
+      <module name="TheCrims" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ganda.thecrimscraft.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TheftTimer" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -116,33 +143,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583973027530</updated>
+      <workItem from="1584578846991" duration="21000" />
+      <workItem from="1584578895062" duration="3055000" />
+      <workItem from="1584629779552" duration="7000" />
+      <workItem from="1584663923975" duration="5243000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Plugins" timestamp="1584405073498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1584405073498" />
-    <state x="1148" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1583974665333">
+    <state x="1148" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1584496722302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1148" y="165" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583974665333" />
-    <state x="473" y="155" key="FileChooserDialogImpl" timestamp="1583974056868">
+    <state x="1148" y="165" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584496722302" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584578901877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="473" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583974056868" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584578901877" />
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584495780636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1584495780636" />
+    <state x="473" y="155" key="FileChooserDialogImpl" timestamp="1584452610802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584452610802" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584670768065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584670768065" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584670768064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584670768064" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584670768064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584670768064" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584670768065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584670768065" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1583974061015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583974061015" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1584405094554">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1584629780511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584405094554" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584405054873">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584629780511" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584497389489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584405054873" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584497389489" />
   </component>
 </project>

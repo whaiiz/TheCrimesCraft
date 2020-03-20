@@ -1,2 +1,6 @@
+pt\ganda\thecrimscraft\pluginsetup\StoreTheftSetup.class
+pt\ganda\thecrimscraft\commands\thefts\StoreTheft.class
 pt\ganda\thecrimscraft\commands\Help.class
+pt\ganda\thecrimscraft\commands\thefts\StoreTheft$1.class
 pt\ganda\thecrimscraft\Main.class
+pt\ganda\thecrimscraft\commands\thefts\Theft.class

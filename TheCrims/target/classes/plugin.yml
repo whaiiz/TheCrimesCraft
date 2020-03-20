@@ -5,5 +5,9 @@ author: whaiiz
 description: hello
 
 commands:
-  help:
+  Help:
+    usage: /<command>
+  StoreTheft:
+    usage: /<command>
+  StoreTheftSetup:
     usage: /<command>
